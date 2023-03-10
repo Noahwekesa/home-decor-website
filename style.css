@@ -1,0 +1,29 @@
+body{  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header{
+    height: 700px;
+    background-image: url("https://thumbs.dreamstime.com/b/minimal-interior-living-room-design-modern-grey-sofa-cushions-plaid-empty-white-background-big-window-blue-vase-194579671.jpg");
+    background-size: cover;
+}
+#header-title{
+    margin-top: 15%;;
+}
+#headertitle--1{
+    font-size: 68px;
+}
+#headertitle--2{
+    margin-top: 60px;
+    padding-bottom: 24px;
+    font-size: 30px;
+
+}
+.line{
+    height: 5px;
+    background-color: greenyellow;
+}
+#headertitle--3{
+    margin-top: 60px;
+    padding-bottom: 24px;
+    font-size: 48px;
+}
